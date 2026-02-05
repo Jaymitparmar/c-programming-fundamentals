@@ -1,0 +1,22 @@
+#include<stdio.h>
+#include<conio.h>
+#define pf printf
+
+main()
+
+{
+	float salary, HRA, DA, TA;
+	float A, B, C, gross;
+
+	clrscr();
+
+	pf ("Enter base salary:")
+	scanf("%f",&salary);
+
+	pf ("Enter HRA :");
+
+
+	getch();
+
+
+}
